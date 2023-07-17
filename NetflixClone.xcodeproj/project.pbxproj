@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		817C82932A64739E00B2487A /* Title.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817C82922A64739E00B2487A /* Title.swift */; };
 		817C82952A64878300B2487A /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817C82942A64878300B2487A /* Extensions.swift */; };
+		817DA4882A651C66008E2FAA /* TitleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 817DA4872A651C66008E2FAA /* TitleCollectionViewCell.swift */; };
 		81C374D42A62829400658B28 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C374D32A62829400658B28 /* AppDelegate.swift */; };
 		81C374D62A62829400658B28 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C374D52A62829400658B28 /* SceneDelegate.swift */; };
 		81C374D82A62829400658B28 /* MainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C374D72A62829400658B28 /* MainTabBarViewController.swift */; };
@@ -26,6 +27,7 @@
 /* Begin PBXFileReference section */
 		817C82922A64739E00B2487A /* Title.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Title.swift; sourceTree = "<group>"; };
 		817C82942A64878300B2487A /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		817DA4872A651C66008E2FAA /* TitleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleCollectionViewCell.swift; sourceTree = "<group>"; };
 		81C374D02A62829400658B28 /* NetflixClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NetflixClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81C374D32A62829400658B28 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81C374D52A62829400658B28 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 			children = (
 				81E88BFC2A63609400E046BA /* CollectionViewTableViewCell.swift */,
 				81E88BFE2A63735300E046BA /* HeroHeaderUIView.swift */,
+				817DA4872A651C66008E2FAA /* TitleCollectionViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				81C374ED2A62900500658B28 /* SearchViewController.swift in Sources */,
+				817DA4882A651C66008E2FAA /* TitleCollectionViewCell.swift in Sources */,
 				81C374D82A62829400658B28 /* MainTabBarViewController.swift in Sources */,
 				81E88BFD2A63609400E046BA /* CollectionViewTableViewCell.swift in Sources */,
 				81E88C012A63B43C00E046BA /* APICaller.swift in Sources */,
