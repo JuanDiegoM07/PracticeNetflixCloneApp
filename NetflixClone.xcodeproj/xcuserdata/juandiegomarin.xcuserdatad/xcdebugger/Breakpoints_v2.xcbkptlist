@@ -7,46 +7,46 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "99D90D32-EC60-4E1A-8600-B187D0A229DA"
+            uuid = "CDA4640F-C50B-40D8-A8DE-7253863B2AB0"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NetflixClone/Managers/APICaller.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "46"
-            endingLineNumber = "46"
-            landmarkName = "getTrendingTvs(completion:)"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "getUpcomingMovies(completion:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "99D90D32-EC60-4E1A-8600-B187D0A229DA - 3caaee8df2c2f133"
+                  uuid = "CDA4640F-C50B-40D8-A8DE-7253863B2AB0 - 4b0a83f0a4353643"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "NetflixClone.APICaller.getTrendingTvs(completion: (Swift.Result&lt;Swift.Array&lt;Swift.String&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "NetflixClone.APICaller.getUpcomingMovies(completion: (Swift.Result&lt;Swift.Array&lt;NetflixClone.Title&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
                   moduleName = "NetflixClone"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/juandiegomarin/Desktop/NetflixClone/NetflixClone/Managers/APICaller.swift"
+                  urlString = "file:///Users/juandiegomarin/Documents/PracticeNetflixCloneApp/NetflixClone/Managers/APICaller.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "47"
-                  endingLineNumber = "47"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
                   offsetFromSymbolStart = "281">
                </Location>
                <Location
-                  uuid = "99D90D32-EC60-4E1A-8600-B187D0A229DA - 3caaee8df2c2f133"
+                  uuid = "CDA4640F-C50B-40D8-A8DE-7253863B2AB0 - 4b0a83f0a4353643"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "NetflixClone.APICaller.getTrendingTvs(completion: (Swift.Result&lt;Swift.Array&lt;Swift.String&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "NetflixClone.APICaller.getUpcomingMovies(completion: (Swift.Result&lt;Swift.Array&lt;NetflixClone.Title&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
                   moduleName = "NetflixClone"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/juandiegomarin/Desktop/NetflixClone/NetflixClone/Managers/APICaller.swift"
+                  urlString = "file:///Users/juandiegomarin/Documents/PracticeNetflixCloneApp/NetflixClone/Managers/APICaller.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "47"
-                  endingLineNumber = "47"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
                   offsetFromSymbolStart = "827">
                </Location>
             </Locations>
@@ -55,49 +55,33 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "7C17138F-D339-48A3-BAF7-C7FDBF3BF8FE"
+            uuid = "C6759856-AB03-474D-9EDD-997A298421EC"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NetflixClone/Managers/APICaller.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "51"
-            endingLineNumber = "51"
-            landmarkName = "getTrendingTvs(completion:)"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "getUpcomingMovies(completion:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "7C17138F-D339-48A3-BAF7-C7FDBF3BF8FE - 7eb4032912028cfa"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NetflixClone.APICaller.getTrendingTvs(completion: (Swift.Result&lt;Swift.Array&lt;Swift.String&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "NetflixClone"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/juandiegomarin/Desktop/NetflixClone/NetflixClone/Managers/APICaller.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "52"
-                  endingLineNumber = "52"
-                  offsetFromSymbolStart = "142">
-               </Location>
-               <Location
-                  uuid = "7C17138F-D339-48A3-BAF7-C7FDBF3BF8FE - 7eb4032912028cfa"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NetflixClone.APICaller.getTrendingTvs(completion: (Swift.Result&lt;Swift.Array&lt;Swift.String&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "NetflixClone"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/juandiegomarin/Desktop/NetflixClone/NetflixClone/Managers/APICaller.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "52"
-                  endingLineNumber = "52"
-                  offsetFromSymbolStart = "212">
-               </Location>
-            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBDE9CBB-D10A-4934-AFEF-4BDF0979AC11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetflixClone/Managers/APICaller.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "getUpcomingMovies(completion:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
